@@ -1,0 +1,526 @@
+[
+  {
+    "name": {
+      "gr": "Λευκός Καρχαρίας",
+      "en": "Great White Shark",
+      "la": "Carcharodon carcharias"
+    },
+    "image": "great_white.png",
+    "family": {
+      "gr": "Λαμνίδες",
+      "en": "Lamnidae"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "gr": "Χονδροιχθίες"
+    },
+    "genus": "Carcharodon",
+    "diet": {
+      "gr": "Θαλάσσια λιοντάρια, φώκιες, ψάρια",
+      "en": "Sea lions, seals, fish"
+    },
+    "min_size_m": 3.5,
+    "max_size_m": 6.4,
+    "endangered": true,
+    "aggressive": true,
+    "maxdeepth": 1200
+  },
+  {
+    "name": {
+      "gr": "Καρχαρίας Τίγρης",
+      "en": "Tiger Shark",
+      "la": "Galeocerdo cuvier"
+    },
+    "image": "tiger_shark.png",
+    "family": {
+      "gr": "Καρχαρινίδες",
+      "en": "Carcharhinidae"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "gr": "Χονδροιχθίες"
+    },
+    "genus": "Galeocerdo",
+    "diet": {
+      "gr": "Χελώνες, πτηνά, ψάρια, σκουπίδια",
+      "en": "Turtles, birds, fish, garbage"
+    },
+    "min_size_m": 3.2,
+    "max_size_m": 5.0,
+    "endangered": true,
+    "aggressive": true,
+    "maxdeepth": 900
+  },
+  {
+    "name": {
+      "gr": "Σφυροκέφαλος Καρχαρίας",
+      "en": "Hammerhead Shark",
+      "la": "Sphyrna mokarran"
+    },
+    "image": "hammerhead.png",
+    "family": {
+      "gr": "Σφυρνίδες",
+      "en": "Sphyrnidae"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "gr": "Χονδροιχθίες"
+    },
+    "genus": "Sphyrna",
+    "diet": {
+      "gr": "Ψάρια, καλαμάρια, καβούρια",
+      "en": "Fish, squid, crabs"
+    },
+    "min_size_m": 3.0,
+    "max_size_m": 6.1,
+    "endangered": true,
+    "aggressive": true,
+    "maxdeepth": 300
+  },
+  {
+    "name": {
+      "gr": "Γαλάζιος Καρχαρίας",
+      "en": "Blue Shark",
+      "la": "Prionace glauca"
+    },
+    "image": "blue_shark.png",
+    "family": {
+      "gr": "Καρχαρινίδες",
+      "en": "Carcharhinidae"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "gr": "Χονδροιχθίες"
+    },
+    "genus": "Prionace",
+    "diet": {
+      "gr": "Καλαμάρια, μικρά ψάρια",
+      "en": "Squid, small fish"
+    },
+    "min_size_m": 2.0,
+    "max_size_m": 3.8,
+    "endangered": true,
+    "aggressive": false,
+    "maxdeepth": 350
+  },
+  {
+    "name": {
+      "gr": "Καρχαρίας Γκομπλίν",
+      "en": "Goblin Shark",
+      "la": "Mitsukurina owstoni"
+    },
+    "image": "goblin_shark.png",
+    "family": {
+      "gr": "Μιτσουκουρινίδες",
+      "en": "Mitsukurinidae"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "gr": "Χονδροιχθίες"
+    },
+    "genus": "Mitsukurina",
+    "diet": {
+      "gr": "Ψάρια βυθού, καλαμάρια, καρκινοειδή",
+      "en": "Bottom fish, squid, crustaceans"
+    },
+    "min_size_m": 3.0,
+    "max_size_m": 3.8,
+    "endangered": false,
+    "aggressive": false,
+    "maxdeepth": 1300
+  },
+  {
+    "name": {
+      "gr": "Φαλαινοκαρχαρίας",
+      "en": "Whale Shark",
+      "la": "Rhincodon typus"
+    },
+    "image": "whale_shark.png",
+    "family": {
+      "gr": "Ρινκοντοντίδες",
+      "en": "Rhincodontidae"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "gr": "Χονδροιχθίες"
+    },
+    "genus": "Rhincodon",
+    "diet": {
+      "gr": "Πλαγκτόν, μικρά ψάρια",
+      "en": "Plankton, small fish"
+    },
+    "min_size_m": 5.5,
+    "max_size_m": 12.0,
+    "endangered": true,
+    "aggressive": false,
+    "maxdeepth": 1900
+  },
+  {
+    "name": {
+      "gr": "Καρχαρίας Αλεπού",
+      "en": "Thresher Shark",
+      "la": "Alopias vulpinus"
+    },
+    "image": "thresher_shark.png",
+    "family": {
+      "gr": "Αλοπιδίδες",
+      "en": "Alopiidae"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "gr": "Χονδροιχθίες"
+    },
+    "genus": "Alopias",
+    "diet": {
+      "gr": "Ψάρια, καλαμάρια",
+      "en": "Fish, squid"
+    },
+    "min_size_m": 3.0,
+    "max_size_m": 6.0,
+    "endangered": true,
+    "aggressive": false,
+    "maxdeepth": 500
+  },
+  {
+    "name": {
+      "gr": "Καρχαρίας Μάκο",
+      "en": "Mako Shark",
+      "la": "Isurus oxyrinchus"
+    },
+    "image": "mako_shark.png",
+    "family": {
+      "gr": "Λαμνίδες",
+      "en": "Lamnidae"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "gr": "Χονδροιχθίες"
+    },
+    "genus": "Isurus",
+    "diet": {
+      "gr": "Τόνοι, ξιφίες, καλαμάρια",
+      "en": "Tuna, swordfish, squid"
+    },
+    "min_size_m": 2.5,
+    "max_size_m": 4.5,
+    "endangered": true,
+    "aggressive": true,
+    "maxdeepth": 740
+  },
+  {
+    "name": {
+      "gr": "Καρχαρίας Φροντιστής",
+      "en": "Nurse Shark",
+      "la": "Ginglymostoma cirratum"
+    },
+    "image": "nurse_shark.png",
+    "family": {
+      "gr": "Γινγλυμοστομίδες",
+      "en": "Ginglymostomatidae"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "gr": "Χονδροιχθίες"
+    },
+    "genus": "Ginglymostoma",
+    "diet": {
+      "gr": "Καρκινοειδή, μαλάκια, μικρά ψάρια",
+      "en": "Crustaceans, mollusks, small fish"
+    },
+    "min_size_m": 2.0,
+    "max_size_m": 4.3,
+    "endangered": false,
+    "aggressive": false,
+    "maxdeepth": 130
+  },
+  {
+    "name": {
+      "gr": "Καρχαρίας Γροιλανδίας",
+      "en": "Greenland Shark",
+      "la": "Somniosus microcephalus"
+    },
+    "image": "greenland_shark.png",
+    "family": {
+      "gr": "Σομνιοσουχίδες",
+      "en": "Somniosidae"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "gr": "Χονδροιχθίες"
+    },
+    "genus": "Somniosus",
+    "diet": {
+      "gr": "Ψάρια, θαλάσσια θηλαστικά, πτώματα",
+      "en": "Fish, marine mammals, carrion"
+    },
+    "min_size_m": 3.0,
+    "max_size_m": 7.3,
+    "endangered": true,
+    "aggressive": false,
+    "maxdeepth": 2200
+  },
+
+
+
+
+    {
+    "name": {
+      "gr": "Καρχαρίας Ταύρος",
+      "en": "Bull Shark",
+      "la": "Carcharhinus leucas"
+    },
+    "image": "bull_shark.png",
+    "family": {
+      "gr": "Καρχαρινίδες",
+      "en": "Carcharhinidae"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "gr": "Χονδροιχθίες"
+    },
+    "genus": "Carcharhinus",
+    "diet": {
+      "gr": "Ψάρια, δελφίνια, πουλερικά, καρχαρίες",
+      "en": "Fish, dolphins, birds, sharks"
+    },
+    "min_size_m": 2.1,
+    "max_size_m": 3.5,
+    "endangered": true,
+    "aggressive": true,
+    "maxdeepth": 150
+  },
+  {
+    "name": {
+      "gr": "Καρχαρίας Προσκυνητής / Σαπουνάς",
+      "en": "Basking Shark",
+      "la": "Cetorhinus maximus"
+    },
+    "image": "basking_shark.png",
+    "family": {
+      "gr": "Κετορινίδες",
+      "en": "Cetorhinidae"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "gr": "Χονδροιχθίες"
+    },
+    "genus": "Cetorhinus",
+    "diet": {
+      "gr": "Πλαγκτόν",
+      "en": "Plankton"
+    },
+    "min_size_m": 6.0,
+    "max_size_m": 12.0,
+    "endangered": true,
+    "aggressive": false,
+    "maxdeepth": 900
+  },
+  {
+    "name": {
+      "gr": "Καρχαρίας Φαντασμα",
+      "en": "Ghost Shark",
+      "la": "Chimaera monstrosa"
+    },
+    "image": "ghost_shark.png",
+    "family": {
+      "gr": "Χιμαιρίδες",
+      "en": "Chimaeridae"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "gr": "Χονδροιχθίες"
+    },
+    "genus": "Chimaera",
+    "diet": {
+      "gr": "Καρκινοειδή, μαλάκια",
+      "en": "Crustaceans, mollusks"
+    },
+    "min_size_m": 0.5,
+    "max_size_m": 1.5,
+    "endangered": false,
+    "aggressive": false,
+    "maxdeepth": 2600
+  },
+  {
+    "name": {
+      "gr": "Καρχαρίας Κουνούπι",
+      "en": "Cookiecutter Shark",
+      "la": "Isistius brasiliensis"
+    },
+    "image": "cookiecutter_shark.png",
+    "family": {
+      "gr": "Νταλκιμίδες",
+      "en": "Dalatiidae"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "gr": "Χονδροιχθίες"
+    },
+    "genus": "Isistius",
+    "diet": {
+      "gr": "Ιστός μεγαλύτερων ζώων, καλαμάρια",
+      "en": "Tissue of larger animals, squid"
+    },
+    "min_size_m": 0.4,
+    "max_size_m": 0.56,
+    "endangered": false,
+    "aggressive": true,
+    "maxdeepth": 3500
+  },
+  {
+    "name": {
+      "gr": "Καρχαρίας Καφέ",
+      "en": "Sandbar Shark",
+      "la": "Carcharhinus plumbeus"
+    },
+    "image": "sandbar_shark.png",
+    "family": {
+      "gr": "Καρχαρινίδες",
+      "en": "Carcharhinidae"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "gr": "Χονδροιχθίες"
+    },
+    "genus": "Carcharhinus",
+    "diet": {
+      "gr": "Ψάρια βυθού, καβούρια, καλαμάρια",
+      "en": "Bottom fish, crabs, squid"
+    },
+    "min_size_m": 1.5,
+    "max_size_m": 2.5,
+    "endangered": true,
+    "aggressive": "moderate",
+    "maxdeepth": 280
+  },
+  {
+    "name": {
+      "gr": "Καρχαρίας Μεταξωτός",
+      "en": "Silky Shark",
+      "la": "Carcharhinus falciformis"
+    },
+    "image": "silky_shark.png",
+    "family": {
+      "gr": "Καρχαρινίδες",
+      "en": "Carcharhinidae"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "gr": "Χονδροιχθίες"
+    },
+    "genus": "Carcharhinus",
+    "diet": {
+      "gr": "Τόνοι, σκουμπριά, καλαμάρια",
+      "en": "Tuna, mackerel, squid"
+    },
+    "min_size_m": 2.0,
+    "max_size_m": 3.3,
+    "endangered": true,
+    "aggressive": true,
+    "maxdeepth": 500
+  },
+  {
+    "name": {
+      "gr": "Καρχαρίας Φυματικός",
+      "en": "Wobbegong Shark",
+      "la": "Orectolobus maculatus"
+    },
+    "image": "wobbegong_shark.png",
+    "family": {
+      "gr": "Ορεκτολοβίδες",
+      "en": "Orectolobidae"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "gr": "Χονδροιχθίες"
+    },
+    "genus": "Orectolobus",
+    "diet": {
+      "gr": "Μικρά ψάρια, καρκινοειδή",
+      "en": "Small fish, crustaceans"
+    },
+    "min_size_m": 2.0,
+    "max_size_m": 3.0,
+    "endangered": false,
+    "aggressive": "sometimes",
+    "maxdeepth": 110
+  },
+  {
+    "name": {
+      "gr": "Καρχαρίας Λεοπάρδαλη",
+      "en": "Leopard Shark",
+      "la": "Triakis semifasciata"
+    },
+    "image": "leopard_shark.png",
+    "family": {
+      "gr": "Τριακίδες",
+      "en": "Triakidae"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "gr": "Χονδροιχθίες"
+    },
+    "genus": "Triakis",
+    "diet": {
+      "gr": "Καβούρια, σκουλήκια, μικρά ψάρια",
+      "en": "Crabs, worms, small fish"
+    },
+    "min_size_m": 1.2,
+    "max_size_m": 2.1,
+    "endangered": false,
+    "aggressive": false,
+    "maxdeepth": 90
+  },
+  {
+    "name": {
+      "gr": "Καρχαρίας Χαλκόχρωμος",
+      "en": "Copper Shark",
+      "la": "Carcharhinus brachyurus"
+    },
+    "image": "copper_shark.png",
+    "family": {
+      "gr": "Καρχαρινίδες",
+      "en": "Carcharhinidae"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "gr": "Χονδροιχθίες"
+    },
+    "genus": "Carcharhinus",
+    "diet": {
+      "gr": "Ψάρια, καλαμάρια, χταπόδια",
+      "en": "Fish, squid, octopus"
+    },
+    "min_size_m": 2.0,
+    "max_size_m": 3.3,
+    "endangered": true,
+    "aggressive": "moderately",
+    "maxdeepth": 100
+  },
+  {
+    "name": {
+      "gr": "Καρχαρίας Πριονωτός",
+      "en": "Sawshark",
+      "la": "Pristiophorus cirratus"
+    },
+    "image": "sawshark.png",
+    "family": {
+      "gr": "Πριστιοφορίνες",
+      "en": "Pristiophoridae"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "gr": "Χονδροιχθίες"
+    },
+    "genus": "Pristiophorus",
+    "diet": {
+      "gr": "Καρκινοειδή, καλαμάρια, μικρά ψάρια",
+      "en": "Crustaceans, squid, small fish"
+    },
+    "min_size_m": 1.0,
+    "max_size_m": 1.5,
+    "endangered": false,
+    "aggressive": false,
+    "maxdeepth": 900
+  }
+]
